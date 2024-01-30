@@ -1,0 +1,2 @@
+- Git é um versionador de código onde ele te possibilita a conseguir versões anteriores de tal código.
+- Github é onde a mágica toda acontece ele que complementa o GIT, o gihub é meio que uma "Rede Social" para programados subir seus códigos e não correr o risco de perder, fazer network, usar outros repósitorios etc.
