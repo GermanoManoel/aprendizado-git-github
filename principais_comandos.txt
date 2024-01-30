@@ -1,0 +1,20 @@
+Principais comando do git:
+
+- echo 'Hello World'
+- pwd -> Mostra o teu diretorio atual
+- ls -> Lista as pasta/arquivo que está naquele diretorio
+- mkdir -> Serve para gente criar uma pasta
+- cd -> serve para gente entra em uma pasta
+- ..cd -> serve para gente voltar para pasta anterior
+- echo . > [name arquivo] -> Serve para gente criar um aquivo
+- echo 'Hello World' >> file.txt -> Serve para gente colocar X conteudo em X arqueivo
+- less [name arquivo] exibe o conteudo de um aquivo. OBS: aper a tecla Q para sair
+- cp file1.txt file2.txt -> Copia o que tem no aquivo 1 para o arquivo 2
+- mv file2.txt file3.txt -> Move o que tem no arquico 2 para o 3. Apagando o arquivo 2
+- rm file3.txt -> Remove o arquivo
+- rm -rf [nome da pasta] -> Remove a pasta
+- cls -> Limpa o terminal
+- history -> Mostra a lista dos ultimos comando que tu rodou
+- !10020 -> Vai regatar o comando que já usou esse número
+- history / grep mv -> Vai filtar os comandos que tu deu, que antes dele(comando) tenha mv
+- exit -> Fecha o terminal
