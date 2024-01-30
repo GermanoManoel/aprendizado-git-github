@@ -1,0 +1,3 @@
+  Comandos para configurar seu GIT: 
+-> git config --global user.name "SeuNome"
+-> git config --global user.email "seuemail@example.com"
