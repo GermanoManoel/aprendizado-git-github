@@ -1,0 +1,3 @@
+ Para conectar-se ao github você precisa primeiro ter uma conta no GITHUB, depois disso você pode você pode configurar tanto o nome quando o email para que quando você realizar o commit as pessoas saber que foi você que fez as alteraçôes
+
+
